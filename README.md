@@ -9,9 +9,6 @@ I've dabbled in all sorts of stuff: from game development in Unity, to programmi
   <picture prefers-color-scheme: dark><img src="https://github.com/cecilsmith/cecilsmith/assets/19243227/2dda57b4-24f8-499f-a5d0-992a1171d2a0" width="2%" alt="" /></picture>
   <a href="https://github.com/cecilsmith" style="text-decoration:none;">
     <picture prefers-color-scheme: light><img src="https://github.com/cecilsmith/cecilsmith/assets/19243227/fbdaadfd-e302-4182-b483-2c8e99002516" width="5%" alt="GitHub" /></picture></a>
-  <picture prefers-color-scheme: dark><img src="https://github.com/cecilsmith/cecilsmith/assets/19243227/2dda57b4-24f8-499f-a5d0-992a1171d2a0" width="2%" alt="" /></picture>
-  <a href="https://twitter.com/kiwi_dev_" style="text-decoration: none;">
-    <picture prefers-color-scheme: dark><img src="https://github.com/cecilsmith/cecilsmith/assets/19243227/9ceca8ec-f86e-4779-957c-69e5a34f38e3" width="5%" alt="Twitter/X" /></picture></a>
 </div>
 
 <!---
