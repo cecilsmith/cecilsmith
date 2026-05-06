@@ -1,6 +1,6 @@
-I’m @cecilsmith 😎 --a computer/software engineering dev attending the University of Minnesota and working on some pretty cool projects--
+I’m @cecilsmith 😎 --a computer/software engineering dev working on some pretty cool projects--
 
-I've dabbled in all sorts of stuff: from game development in Unity, to programming and building drones, to Web development (HTML, CSS, JS, Node.js), Java ☕️, Python, C/C++, and some HDLs.
+I've dabbled in all sorts of stuff: from game development in Unity, to programming and building drones, to homegrown tracking systems, to Web development (HTML, CSS, JS, Node.js), Java ☕️, Python, C/C++, and some HDLs.
 
 <div align="center">
   <h3>Contact Me</h3>
