@@ -43,4 +43,4 @@ Embedded firmware · Robotics · Edge computing
 
 <br><br>
 
-I work on the seam between software and hardware.
+<div align="center">I work on the seam between software and hardware.</div>
